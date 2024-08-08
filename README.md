@@ -23,12 +23,14 @@
 
 ### Layer 0
 
+- Caps Lock -> Left Ctrl
 - Macro 0: Ctrl + Shift + M (Mute)
 
 ![nk65 - Layer 0](images/nk65_layer0.png)
 
 ### Layer 1
 
+- Caps Lock
 - Arrows on WASD
 - Home/End on </>
 - Mouse movement on arrows

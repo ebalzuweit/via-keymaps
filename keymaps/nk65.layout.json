@@ -2,7 +2,7 @@
   "name": "NK65",
   "vendorProductId": 2305314379,
   "macros": [
-    "{KC_LCTL, KC_LSFT, KC_M}",
+    "{KC_LCTL,KC_LSFT,KC_M}",
     "",
     "",
     "",
@@ -51,7 +51,7 @@
       "KC_RBRC",
       "KC_NO",
       "KC_PGUP",
-      "KC_CAPS",
+      "KC_LCTL",
       "KC_A",
       "KC_S",
       "KC_D",
@@ -80,8 +80,8 @@
       "KC_SLSH",
       "KC_RSFT",
       "KC_UP",
-      "MACRO00",
-      "KC_LCTL",
+      "MACRO(0)",
+      "KC_NO",
       "KC_LGUI",
       "KC_LALT",
       "KC_NO",
@@ -128,7 +128,7 @@
       "KC_TRNS",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_CAPS",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT",
@@ -328,5 +328,6 @@
       "KC_TRNS",
       "KC_TRNS"
     ]
-  ]
+  ],
+  "encoders": []
 }
